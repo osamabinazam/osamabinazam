@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Bash, Cpp, Linux
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: mostly active on instagram (https://www.instagram.com/osamabinazam.8086/) and also reach me through gmail (osamabinazam@gmail.com)
 
 <!---
 osamabinazam/osamabinazam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
