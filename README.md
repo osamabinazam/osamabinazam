@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mostly active on instagram (https://www.instagram.com/osamabinazam.8086/) and also reach me through gmail (osamabinazam@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=osamabinazam)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=osamabinazam&theme=gotham)](https://git.io/streak-stats)
 <!---
 osamabinazam/osamabinazam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
