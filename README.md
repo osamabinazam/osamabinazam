@@ -29,9 +29,9 @@ A passionate **Software Engineer** specializing in creating scalable, secure, an
 ### 📫 How to Reach Me
 - 📧 **Email**: [osamabinazam@gmail.com](mailto:osamabinazam@gmail.com)
 - 💼 **LinkedIn**: [Osama Bin Azam](https://www.linkedin.com/in/osama-bin-azam)
-- 🖥️ **GitHub**: [GitHub Profile](https://github.com/osamabinazam)
-- 🏆 **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/osamabinazam)
-- 📸 **Instagram**: [Instagram Profile](https://www.instagram.com/osamabinazam.8086/)
+- 🖥️ **GitHub**: [Osama Bin Azam](https://github.com/osamabinazam)
+- 🏆 **HackerRank**: [Osama Bin Azam](https://www.hackerrank.com/osamabinazam)
+- 📸 **Instagram**: [Osama Bin Azam](https://www.instagram.com/osamabinazam.8086/)
 
 ---
 
